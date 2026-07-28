@@ -108,6 +108,7 @@ flowchart TB
 
 Готов показать живое демо на анонимизированных тестовых данных и ответить на технические вопросы по архитектуре — пишите.
 
+## Скриншоты
 <img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/74e2c3b9-c5f5-4290-b558-d2ceeebf9b6c" />
 <img width="1844" height="894" alt="image" src="https://github.com/user-attachments/assets/91543724-5644-42a9-9a01-35794263a129" />
 
